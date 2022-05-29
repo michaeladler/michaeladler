@@ -1,3 +1,6 @@
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeladler)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi 👋, I'm Michael.</h1>
+<h3 align="center">I'm passionate about Linux and Open-Source.</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeladler)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaeladler&show_icons=true&locale=en&layout=compact" alt="michaeladler" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaeladler&show_icons=true&locale=en" alt="michaeladler" /></p>
